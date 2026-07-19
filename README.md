@@ -86,8 +86,3 @@ Through this project, I learned:
 
 ---
 
-## 👨‍💻 Author
-
-**Your Name**
-
-GitHub: https://github.com/yourusername
